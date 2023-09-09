@@ -1,0 +1,1 @@
+bitsadmin /transfer "inferdwnl" /download /priority FOREGROUND "https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/resolve/main/Mangio-RVC-v23.7.0_INFER.7z" "%~dp0Mangio-RVC-v23.7.0_INFER.7z"
